@@ -39,7 +39,7 @@ ex-Tarka Labs, ex-BrowserStack, ex-ThoughtWorks
 class: center, middle
 
 Code
-https://github.com/algogrit/presentation-template
+https://github.com/algogrit/presentation-redux-saga-vs-thunk
 
 Slides
-https://template.slides.algogrit.com
+https://redux-saga-vs-thunk.slides.algogrit.com
