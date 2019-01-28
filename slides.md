@@ -6,13 +6,21 @@ layout: true
 
 class: center, middle
 
-# {title}
+# Redux: Saga vs Thunk
 
 Gaurav Agarwal
 
 ---
 
 # Agenda
+
+* Audience poll
+* Refresher on redux
+* Thunk approach
+* Brief intro to ES9 features
+* Saga approach
+* Comparison with Vuex
+* Redux in the land of GraphQL
 
 ---
 
