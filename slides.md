@@ -38,6 +38,36 @@ ex-Tarka Labs, ex-BrowserStack, ex-ThoughtWorks
 
 class: center, middle
 
+# 🙋‍♂️
+
+## How many of you are students or are new to programming?
+
+# 🙋
+
+---
+
+class: center, middle
+
+# 🙋‍♂️🙋
+
+## How many of you are familiar or have worked with React/Redux?
+
+# 🙋🙋‍♂️
+
+---
+
+class: center, middle
+
+# 🙋🙋‍♂️
+
+## How many of you use React **without** ~~Redux~~?
+
+# 🙋‍♂️🙋
+
+---
+
+class: center, middle
+
 Code
 https://github.com/algogrit/presentation-redux-saga-vs-thunk
 
